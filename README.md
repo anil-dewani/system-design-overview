@@ -1,3 +1,3 @@
 # System Design Overview
 
-- [Scalability](scalability.md)
+- [Scalability](topics/scalability.md)
