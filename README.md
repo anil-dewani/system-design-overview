@@ -1,5 +1,5 @@
 
-# System Design Overview
+# 🌐 System Design Overview
 
 System design is a fundamental process in software engineering where engineers plan and define the architecture, components, interfaces, and data for a system to meet specified requirements. It involves considering and balancing numerous aspects such as scalability, performance, reliability, and security to ensure the system operates effectively across a range of real-world scenarios.
 
@@ -7,7 +7,7 @@ Effective system design addresses both the technical and business challenges of 
 
 Below are the topics, building blocks, architectural patterns, and other resources that are crucial to understanding and mastering system design:
 
-### Topics
+### 🔍 Topics 
 
 System design topics cover various aspects of designing and managing scalable, efficient, and robust systems. These topics range from understanding fundamental principles like Scalability and the CAP Theorem to practical strategies such as Consistent Hashing and Rate Limiting. Other key areas include designing APIs, understanding different types of consistency, and choosing between synchronous and asynchronous communications. Each topic dives deep into the mechanisms and considerations necessary to build systems that can handle the demands of modern computing environments.
 
@@ -30,7 +30,7 @@ System design topics cover various aspects of designing and managing scalable, e
 - [Disaster Recovery](topics/disaster-recovery.md)
 - [Distributed Tracing](topics/distributed-tracing.md)
 
-### Building Blocks
+### 🧱 Building Blocks
 
 Building blocks in system design refer to the core components and technologies that form the foundation of any system architecture. This includes Databases, Content Delivery Networks (CDNs), and the Domain Name System (DNS), among others. Advanced components like Distributed Caching, Load Balancing, and Database Sharding are crucial for enhancing performance and scalability. Understanding these elements is essential for architects and developers to effectively design, optimize, and maintain robust systems that can scale and perform under varying loads.
 
@@ -60,7 +60,7 @@ Building blocks in system design refer to the core components and technologies t
 - [Distributed Locking](blocks/distributed-locking.md)
 - [Checksum](blocks/checksum.md)
 
-### Architectural Patterns
+### 🏛️ Architectural Patterns
 
 Architectural patterns provide a high-level framework that guides the organization and configuration of software systems. Popular patterns such as Microservices Architecture and Serverless Architecture focus on ways to structure applications for ease of deployment, scalability, and independence. Other patterns like Event-Driven and Peer-to-Peer (P2P) Architecture cater to specific needs such as dynamic event handling and decentralized network design. Each pattern offers unique advantages and challenges, and is chosen based on the specific requirements and constraints of the project at hand.
 
@@ -70,11 +70,11 @@ Architectural patterns provide a high-level framework that guides the organizati
 - [Event-Driven Architecture](patterns/event-driven-architecture.md)
 - [Peer-to-Peer (P2P) Architecture](patterns/p2p-architecture.md)
 
-### Important Summaries To Read
+### 📚 Important Summaries To Read
 - [Top 15 Tradeoffs](summaries/top-15-tradeoffs.md)
 - [How to Answer a System Design Interview Problem](summaries/system-design-interview-problem.md)
 
-### Practical Videos
+### 🎥 Practical Videos
 - [Design Unified Payment Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 - [Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
 - [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
