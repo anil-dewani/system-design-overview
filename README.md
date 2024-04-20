@@ -71,8 +71,8 @@ Architectural patterns provide a high-level framework that guides the organizati
 - [Peer-to-Peer (P2P) Architecture](patterns/p2p-architecture.md)
 
 ### 📚 Important Summaries To Read
-- [Top 15 Tradeoffs](summaries/top-15-tradeoffs.md)
-- [How to Answer a System Design Interview Problem](summaries/system-design-interview-problem.md)
+- [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
+- [How to Answer a System Design Interview Problem](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
 
 ### 🎥 Practical Videos
 - [Design Unified Payment Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
