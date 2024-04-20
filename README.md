@@ -20,11 +20,12 @@
 - [Service Discovery](topics/service-discovery.md)
 - [Disaster Recovery](topics/disaster-recovery.md)
 - [Distributed Tracing](topics/distributed-tracing.md)
-- [Top 15 Tradeoffs](topics/top-15-tradeoffs.md)
 
-### How to Answer a System Design Interview Problem
+### Important Summaries To Read
+- [Top 15 Tradeoffs](summaries/top-15-tradeoffs.md)
+- [How to Answer a System Design Interview Problem](summaries/system-design-interview-problem.md)
 
-![System Design Interview](https://github.com/ashishps1/awesome-system-design-resources/raw/main/diagrams/interview-template.png)
-
-
-Reference Derived From: https://github.com/ashishps1/awesome-system-design-resources?tab=readme-ov-file
+### Practical Videos
+- [Design Unified Payment Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
+- [Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
+- [Design Live Commenbts](https://systemdesign.one/live-comment-system-design/)
