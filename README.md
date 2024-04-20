@@ -22,10 +22,12 @@
 - [Distributed Tracing](topics/distributed-tracing.md)
 
 ### Important Summaries To Read
+- [Building Blocks of System Design](summaries/building-blocks-of-system-design.md)
+- [System Design Architectural Patterns](summaries/system-design-architectural-patterns.md)
 - [Top 15 Tradeoffs](summaries/top-15-tradeoffs.md)
 - [How to Answer a System Design Interview Problem](summaries/system-design-interview-problem.md)
 
 ### Practical Videos
 - [Design Unified Payment Interface (UPI)](https://www.youtube.com/watch?v=QpLy0_c_RXk)
 - [Design Stock Exchange System](https://www.youtube.com/watch?v=dUMWMZmMsVE)
-- [Design Live Commenbts](https://systemdesign.one/live-comment-system-design/)
+- [Design Live Comments](https://systemdesign.one/live-comment-system-design/)
